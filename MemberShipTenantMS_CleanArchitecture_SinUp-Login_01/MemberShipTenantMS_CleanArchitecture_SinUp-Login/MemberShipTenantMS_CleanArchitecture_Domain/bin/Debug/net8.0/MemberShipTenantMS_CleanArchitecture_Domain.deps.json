@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MemberShipTenantMS_CleanArchitecture_Domain/1.0.0": {
+        "runtime": {
+          "MemberShipTenantMS_CleanArchitecture_Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MemberShipTenantMS_CleanArchitecture_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

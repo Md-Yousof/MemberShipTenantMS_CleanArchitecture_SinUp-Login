@@ -1,0 +1,6 @@
+@MemberShipTenantMS_CleanArchitecture_Apo_HostAddress = http://localhost:5121
+
+GET {{MemberShipTenantMS_CleanArchitecture_Apo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

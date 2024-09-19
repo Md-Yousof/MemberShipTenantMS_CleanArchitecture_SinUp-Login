@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MemberShipTenantMS_CleanArchitecture_Apo.props" />
+</Project>
